@@ -52,16 +52,13 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
 
 ---
 
-### 🐍 Snake Eating my Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+### 🌐 3D Contribution Map
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eniomartinst&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <img alt="Ênio's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg">
+  </picture>
 </p>
+
