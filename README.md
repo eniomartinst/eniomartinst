@@ -52,13 +52,9 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
 
 ---
 
-### 🌐 3D Contribution Map
+### 🌐 3D Contribution City
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <img alt="Ênio's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg">
-  </picture>
+  <img alt="Ênio's 3D Contribution Graph" src="./github-metrics-3d.svg">
 </p>
 
