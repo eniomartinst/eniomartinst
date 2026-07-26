@@ -58,3 +58,18 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
   <img alt="Ênio's 3D Contribution Graph" src="./github-metrics-3d.svg">
 </p>
 
+---
+
+### 🚀 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/eniomartinst/geekshop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eniomartinst&repo=geekshop&theme=tokyonight&show_icons=true" alt="Geekshop" />
+  </a>
+  <a href="https://github.com/eniomartinst/idea-voting-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eniomartinst&repo=idea-voting-platform&theme=tokyonight&show_icons=true" alt="Idea Voting Platform" />
+  </a>
+  <a href="https://github.com/eniomartinst/pacman-game-recreation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eniomartinst&repo=pacman-game-recreation&theme=tokyonight&show_icons=true" alt="Pac-Man Game Recreation" />
+  </a>
+</p>
