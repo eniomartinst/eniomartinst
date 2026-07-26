@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub 3D Isometric Calendar
 
 on:
   schedule:
@@ -9,33 +9,17 @@ on:
       - main
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      # 1. Clona o repositório
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # 2. Configura Node.js moderno (22)
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate 3D Commit City
+        uses: lowlighter/metrics@latest
         with:
-          node-version: '24'
-
-      # 3. Executa o NPX com flag --yes para não travar na confirmação
-      - name: Generate 3D Contribution Graphs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-        run: npx --yes github-profile-3d-contrib
-
-      # 4. Faz commit das alterações geradas
-      - name: Commit & Push SVGs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
-          git commit -m "chore: update 3d contribution graph" || exit 0
-          git push
+          filename: github-metrics-3d.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: eniomartinst
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
