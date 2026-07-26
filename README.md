@@ -47,8 +47,7 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eniomartinst&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniomartinst&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniomartinst&theme=tokyonight" />
 </p>
 
 ---
