@@ -2,7 +2,6 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # Roda todos os dias à meia-noite
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -17,7 +16,7 @@ jobs:
     name: generate-3d-contrib-svg
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi386088/github-profile-3d-contrib@master
+      - uses: joshdk/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
