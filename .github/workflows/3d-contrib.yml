@@ -12,10 +12,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     name: generate-3d-contrib-svg
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi386088/github-profile-3d-contrib@0.7.1
+      - uses: yoshi386088/github-profile-3d-contrib@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
