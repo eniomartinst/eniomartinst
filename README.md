@@ -60,16 +60,27 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Meus Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/eniomartinst/geekshop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eniomartinst&repo=geekshop&theme=tokyonight&show_icons=true" alt="Geekshop" />
-  </a>
-  <a href="https://github.com/eniomartinst/idea-voting-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eniomartinst&repo=idea-voting-platform&theme=tokyonight&show_icons=true" alt="Idea Voting Platform" />
-  </a>
-  <a href="https://github.com/eniomartinst/pacman-game-recreation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eniomartinst&repo=pacman-game-recreation&theme=tokyonight&show_icons=true" alt="Pac-Man Game Recreation" />
-  </a>
-</p>
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🛒 Geekshop</h3>
+      <p>Aplicação moderna desenvolvida com foco em arquitetura e tecnologias Full Stack.</p>
+      <br>
+      <a href="https://github.com/eniomartinst/geekshop">🔗 Acessar Repositório</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>💡 Idea Voting Platform</h3>
+      <p>Plataforma interativa projetada para o registro, gerenciamento e votação de ideias.</p>
+      <br>
+      <a href="https://github.com/eniomartinst/idea-voting-platform">🔗 Acessar Repositório</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>👾 Pac-Man Game</h3>
+      <p>Recriação do clássico arcade desenvolvida em C# como parte dos estudos de programação.</p>
+      <br>
+      <a href="https://github.com/eniomartinst/pacman-game-recreation">🔗 Acessar Repositório</a>
+    </td>
+  </tr>
+</table>
