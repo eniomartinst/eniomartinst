@@ -22,7 +22,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '24'
 
       # 3. Executa o NPX com flag --yes para não travar na confirmação
       - name: Generate 3D Contribution Graphs
