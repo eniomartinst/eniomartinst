@@ -18,20 +18,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Configura o Node.js oficial
+      # 2. Configura Node.js moderno (22)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
-      # 3. Executa a geração do gráfico via NPX diretamente do NPM
+      # 3. Executa o NPX com flag --yes para não travar na confirmação
       - name: Generate 3D Contribution Graphs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        run: npx github-profile-3d-contrib
+        run: npx --yes github-profile-3d-contrib
 
-      # 4. Salva as imagens SVG no repositório
+      # 4. Faz commit das alterações geradas
       - name: Commit & Push SVGs
         run: |
           git config user.name "github-actions[bot]"
