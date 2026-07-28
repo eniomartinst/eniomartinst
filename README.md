@@ -44,21 +44,6 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniomartinst&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 3D Contribution City
-
-<p align="center">
-  <img alt="Ênio's 3D Contribution Graph" src="./github-metrics-3d.svg">
-</p>
-
----
 
 ### 🚀 Meus Projetos em Destaque
 
@@ -84,3 +69,13 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 3D Contribution City
+
+<p align="center">
+  <img alt="Ênio's 3D Contribution Graph" src="./github-metrics-3d.svg">
+</p>
+
+---
