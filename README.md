@@ -63,10 +63,22 @@ Desenvolvedor Full Stack apaixonado por criar soluções modernas, explorar nova
 
 ---
 
-### 🌐 3D Contribution City
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="Ênio's 3D Contribution Graph" src="./github-metrics-3d.svg">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Ênio's Contribution Snake"
+      src="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
-
 ---
