@@ -10,33 +10,18 @@
 
 <br>
 
-### `01 // SYSTEM_IDENTITY`
-
-```typescript
-const shadowMonarch = {
-  name: "Ênio Martins",
-  role: "Full Stack Developer",
-  location: "Belo Horizonte, Brazil",
-  studying: "Software Engineering",
-  hobby: "Game Development",
-  mindset: "Leveling up through code. ARISE."
-};
-```
-
-<br>
-
-### `02 // SYSTEM_WINDOW`
+### `01 // PLAYER_IDENTIFICATION`
 
 ```text
 ╔═════════════════════════════════════════════════════════════════╗
-║                      [ S Y S T E M   A L E R T ]                ║
+║             [ P L A Y E R   I D E N T I F I C A T I O N ]       ║
 ╠═════════════════════════════════════════════════════════════════╣
 ║                                                                 ║
-║  [ PLAYER INFO ]                                                ║
 ║  NAME       : Ênio Martins                                      ║
 ║  CLASS      : Full Stack Developer                              ║
+║  LOCATION   : Belo Horizonte, Brazil                            ║
 ║  TITLE      : Software Engineering Student                      ║
-║  LEVEL      : Continuous Evolution                              ║
+║  MINDSET    : Leveling up through code. ARISE.                  ║
 ║                                                                 ║
 ║  [ DAILY QUEST: LEVEL UP ]                                      ║
 ║  - Architect scalable web solutions        : [ In Progress ]    ║
@@ -48,7 +33,7 @@ const shadowMonarch = {
 
 <br>
 
-### `03 // TECH_STACK`
+### `02 // TECH_STACK`
 
 <p align="left">
   <!-- Front-end -->
@@ -72,7 +57,7 @@ const shadowMonarch = {
 
 <br>
 
-### `04 // PROJECT_QUESTS`
+### `03 // PROJECT_QUESTS`
 
 <p>Galeria de projetos em destaque. <i>(Status: Concluídos e em evolução)</i></p>
 
@@ -160,7 +145,7 @@ const shadowMonarch = {
 
 <br>
 
-### `05 // SYSTEM_METRICS`
+### `04 // SYSTEM_METRICS`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eniomartinst&show_icons=true&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=9f9f9f&icon_color=8A2BE2&border_color=8A2BE2&hide_border=true" height="150" alt="GitHub Stats" />
@@ -169,7 +154,7 @@ const shadowMonarch = {
 
 <br>
 
-### `06 // CONTRIBUTION_MATRIX_SNAKE`
+### `05 // CONTRIBUTION_MATRIX_SNAKE`
 
 <p align="center">
   <img
@@ -178,7 +163,7 @@ const shadowMonarch = {
   />
 </p>
 
-### `07 // CONNECT`
+### `06 // CONNECT`
 
 <p align="center">
   <a href="mailto:eniomt1.0@gmail.com">
