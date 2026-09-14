@@ -1,14 +1,10 @@
 <div align="center">
   <img src="assets/banner-enio-martins.png" alt="Banner Enio Martins" width="100%" />
 
-  <br><br>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineering+Student;Game+Development+Enthusiast;Leveling+up+through+code...+%E2%96%88" alt="Typing SVG" />
   </a>
 </div>
-
-<br>
 
 ### `01 // PLAYER_IDENTIFICATION`
 
