@@ -148,8 +148,7 @@
 ### `04 // SYSTEM_METRICS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eniomartinst&show_icons=true&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=9f9f9f&icon_color=8A2BE2&border_color=8A2BE2&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniomartinst&theme=dark&background=000000&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&border=000000" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniomartinst&theme=dark&background=000000&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&border=000000" height="220" alt="GitHub Streak" />
 </div>
 
 <br>
