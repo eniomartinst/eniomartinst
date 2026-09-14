@@ -8,24 +8,9 @@
 
 ### `01 // PLAYER_IDENTIFICATION`
 
-```text
-╔═════════════════════════════════════════════════════════════════╗
-║             [ P L A Y E R   I D E N T I F I C A T I O N ]       ║
-╠═════════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  NAME       : Ênio Martins                                      ║
-║  CLASS      : Full Stack Developer                              ║
-║  LOCATION   : Belo Horizonte, Brazil                            ║
-║  TITLE      : Software Engineering Student                      ║
-║  MINDSET    : Leveling up through code. ARISE.                  ║
-║                                                                 ║
-║  [ DAILY QUEST: LEVEL UP ]                                      ║
-║  - Architect scalable web solutions        : [ In Progress ]    ║
-║  - Develop real-time applications          : [ Ongoing ]        ║
-║  - Expand game development logic           : [ Ongoing ]        ║
-║                                                                 ║
-╚═════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="assets/status-window.svg" alt="Status Window" width="100%">
+</p>
 
 <br>
 
