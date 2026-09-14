@@ -186,13 +186,10 @@ const shadowMonarch = {
 ### `07 // CONNECT`
 
 <p align="center">
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:eniomt1.0@gmail.com">
     <img src="https://img.shields.io/badge/E_mail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/seu-instagram">
+  <a href="https://instagram.com/enio.martinst">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2" alt="Instagram" />
   </a>
 </p>
