@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Sugestão de Banner: Você pode criar uma imagem com uma cidade cyberpunk/Solo Leveling no Canva e substituir este link -->
-  <img src="https://via.placeholder.com/800x200/000000/8A2BE2?text=E+N+I+O+++M+A+R+T+I+N+S++%7C++S+Y+S+T+E+M++L+O+A+D+E+D" alt="Banner Enio Martins" width="100%" />
+  <img src="assets/banner-enio-martins.png" alt="Banner Enio Martins" width="100%" />
 
   <br><br>
 
@@ -81,9 +80,8 @@ const shadowMonarch = {
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <!-- Substitua o link do src pela URL da print do seu projeto -->
       <a href="https://github.com/eniomartinst/geekshop">
-        <img src="https://via.placeholder.com/500x280/1a1a1a/8A2BE2?text=Print+Geekshop" width="100%" style="border-radius: 8px;">
+        <img src="assets/geekshop.png" width="100%" style="border-radius: 8px;">
       </a>
     </td>
     <td width="50%" valign="middle" style="padding-left: 20px;">
@@ -111,9 +109,8 @@ const shadowMonarch = {
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <!-- Substitua o link do src pela URL da print do seu projeto -->
       <a href="https://github.com/eniomartinst/idea-voting-platform">
-        <img src="https://via.placeholder.com/500x280/1a1a1a/8A2BE2?text=Print+Idea+Voting" width="100%" style="border-radius: 8px;">
+        <img src="assets/idea-voting.png" width="100%" style="border-radius: 8px;">
       </a>
     </td>
   </tr>
@@ -125,9 +122,8 @@ const shadowMonarch = {
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <!-- Substitua o link do src pela URL da print do seu projeto -->
       <a href="https://github.com/eniomartinst/pacman-game-recreation">
-        <img src="https://via.placeholder.com/500x280/1a1a1a/8A2BE2?text=Print+Pac-Man" width="100%" style="border-radius: 8px;">
+        <img src="assets/pacman.png" width="100%" style="border-radius: 8px;">
       </a>
     </td>
     <td width="50%" valign="middle" style="padding-left: 20px;">
@@ -151,13 +147,12 @@ const shadowMonarch = {
       <p>Aplicação Full Stack de um jogo de cartas multiplayer em tempo real, com foco em Alta Disponibilidade, WebSockets, Prevenção de Concorrência e Clean Architecture.</p>
       <p><b>Tech:</b> <i>JavaScript, CSS, Docker</i></p>
       <a href="https://github.com/eniomartinst/UnoBar">
-        <img src="assets/unobar.png" width="100%" style="border-radius: 8px;">
+        <img src="https://img.shields.io/badge/Acessar_Repositório-000000?style=flat-square&logo=github&logoColor=8A2BE2" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <!-- Substitua o link do src pela URL da print do seu projeto -->
       <a href="https://github.com/eniomartinst/UnoBar">
-        <img src="https://via.placeholder.com/500x280/1a1a1a/8A2BE2?text=Print+Uno+Bar" width="100%" style="border-radius: 8px;">
+        <img src="assets/unobar.png" width="100%" style="border-radius: 8px;">
       </a>
     </td>
   </tr>
