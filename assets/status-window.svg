@@ -12,7 +12,7 @@
   <rect x="22" y="22" width="756" height="396" class="inner-box" />
 
   <!-- Título -->
-  <text x="400" y="55" class="title" text-anchor="middle">[ P L A Y E R   I D E N T I F I C A T I O N ]</text>
+  <text x="400" y="55" class="title" text-anchor="middle">[ P L A Y E R - I D E N T I F I C A T I O N ]</text>
   <line x1="15" y1="80" x2="785" y2="80" class="box" />
   <line x1="22" y1="87" x2="778" y2="87" class="inner-box" />
 
