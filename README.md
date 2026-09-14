@@ -151,7 +151,7 @@ const shadowMonarch = {
       <p>Aplicação Full Stack de um jogo de cartas multiplayer em tempo real, com foco em Alta Disponibilidade, WebSockets, Prevenção de Concorrência e Clean Architecture.</p>
       <p><b>Tech:</b> <i>JavaScript, CSS, Docker</i></p>
       <a href="https://github.com/eniomartinst/UnoBar">
-        <img src="https://img.shields.io/badge/Acessar_Repositório-000000?style=flat-square&logo=github&logoColor=8A2BE2" />
+        <img src="assets/unobar.png" width="100%" style="border-radius: 8px;">
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
