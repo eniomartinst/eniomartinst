@@ -139,7 +139,8 @@
 <p align="center">
   <img
     alt="Ênio's Contribution Snake"
-    src="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake-dark.svg"  />
+    src="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake-dark.svg"
+  />
 </p>
 
 ### `06 // CONNECT`
