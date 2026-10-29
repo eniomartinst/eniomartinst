@@ -134,12 +134,12 @@
 
 <br>
 
-### `05 // CONTRIBUTION_MATRIX_SNAKE`
+### `05 // CONTRIBUTION_MATRIX_BREAKOUT`
 
 <p align="center">
   <img
-    alt="Ênio's Contribution Snake"
-    src="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/github-contribution-grid-snake-dark.svg"
+    alt="Ênio's Contribution Breakout"
+    src="https://raw.githubusercontent.com/eniomartinst/eniomartinst/output/custom.svg"
   />
 </p>
 
